@@ -1,156 +1,156 @@
 <svg height="2446" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2446" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-24 18:31:25 +0000  1166329 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-24 18:31:25 +0000     7124 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-24 18:31:25 +0000     1078 bytes  License.txt</tspan>
-<tspan x="10" y="74">  3.  2017-04-24 18:31:25 +0000     1675 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-24 18:31:25 +0000      575 bytes  build/browser.config.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-24 18:31:25 +0000       72 bytes  build/configure-shim.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-24 18:31:25 +0000      483 bytes  build/dev.config.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-24 18:31:25 +0000      988 bytes  build/docs.config.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-24 18:31:25 +0000     2139 bytes  build/lessToSass.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-24 18:31:25 +0000     1354 bytes  build/localizers.config.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-24 18:31:25 +0000     3096 bytes  build/make-config.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-24 18:31:25 +0000      188 bytes  build/test.config.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-24 18:31:25 +0000      613 bytes  dev/configure-globalize.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-24 18:31:25 +0000      104 bytes  dev/configure-moment.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-24 18:31:25 +0000       74 bytes  dev/configure-simplenumber.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-24 18:31:25 +0000     3677 bytes  dev/dev.jsx</tspan>
-<tspan x="10" y="282"> 16.  2017-04-24 18:31:25 +0000     5816 bytes  dev/fonts/rw-widgets.eot</tspan>
-<tspan x="10" y="298"> 17.  2017-04-24 18:31:25 +0000     2688 bytes  dev/fonts/rw-widgets.svg</tspan>
-<tspan x="10" y="314"> 18.  2017-04-24 18:31:25 +0000     5640 bytes  dev/fonts/rw-widgets.ttf</tspan>
-<tspan x="10" y="330"> 19.  2017-04-24 18:31:25 +0000     3332 bytes  dev/fonts/rw-widgets.woff</tspan>
-<tspan x="10" y="346"> 20.  2017-04-24 18:31:25 +0000     1100 bytes  dev/index.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-24 18:31:25 +0000    14258 bytes  dist/css/react-widgets.css</tspan>
-<tspan x="10" y="378"> 22.  2017-04-24 18:31:25 +0000     5816 bytes  dist/fonts/rw-widgets.eot</tspan>
-<tspan x="10" y="394"> 23.  2017-04-24 18:31:25 +0000     2688 bytes  dist/fonts/rw-widgets.svg</tspan>
-<tspan x="10" y="410"> 24.  2017-04-24 18:31:25 +0000     5640 bytes  dist/fonts/rw-widgets.ttf</tspan>
-<tspan x="10" y="426"> 25.  2017-04-24 18:31:25 +0000     3332 bytes  dist/fonts/rw-widgets.woff</tspan>
-<tspan x="10" y="442"> 26.  2017-04-24 18:31:25 +0000    23284 bytes  dist/img/loader-big.gif</tspan>
-<tspan x="10" y="458"> 27.  2017-04-24 18:31:25 +0000      673 bytes  dist/img/loading.gif</tspan>
-<tspan x="10" y="474"> 28.  2017-04-24 18:31:25 +0000     8127 bytes  dist/react-widgets-globalize.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-24 18:31:25 +0000     4064 bytes  dist/react-widgets-moment.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-24 18:31:25 +0000    23106 bytes  dist/react-widgets-simple-number.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-24 18:31:25 +0000   314733 bytes  dist/react-widgets.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-24 18:31:25 +0000      967 bytes  fontello-config.json</tspan>
-<tspan x="10" y="554"> 33.  2017-04-24 18:31:25 +0000     2117 bytes  karma.conf-ci.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-24 18:31:25 +0000      791 bytes  karma.conf.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-24 18:31:25 +0000     2793 bytes  lerna-debug.log</tspan>
-<tspan x="10" y="602"> 36.  2017-04-24 18:31:25 +0000     3247 bytes  lib/Button.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-24 18:31:25 +0000    17312 bytes  lib/Calendar.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-24 18:31:25 +0000     6117 bytes  lib/CalendarView.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-24 18:31:25 +0000     3585 bytes  lib/Century.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-24 18:31:25 +0000    16088 bytes  lib/Combobox.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-24 18:31:25 +0000     3027 bytes  lib/ComboboxInput.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-24 18:31:25 +0000    18780 bytes  lib/DateTimePicker.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-24 18:31:25 +0000     3528 bytes  lib/DateTimePickerInput.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-24 18:31:25 +0000     3459 bytes  lib/Decade.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-24 18:31:25 +0000    16084 bytes  lib/DropdownList.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-24 18:31:25 +0000     2515 bytes  lib/DropdownListInput.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-24 18:31:25 +0000     1041 bytes  lib/Footer.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-24 18:31:25 +0000     2661 bytes  lib/Header.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-24 18:31:25 +0000     2922 bytes  lib/Input.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-24 18:31:25 +0000     5152 bytes  lib/List.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-24 18:31:25 +0000     8251 bytes  lib/ListGroupable.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-24 18:31:25 +0000     1858 bytes  lib/ListOption.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-24 18:31:25 +0000      500 bytes  lib/Listbox.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-24 18:31:25 +0000     4645 bytes  lib/Month.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-24 18:31:25 +0000    21175 bytes  lib/Multiselect.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-24 18:31:25 +0000     3678 bytes  lib/MultiselectInput.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-24 18:31:25 +0000     5661 bytes  lib/MultiselectTagList.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-24 18:31:25 +0000     5255 bytes  lib/NumberInput.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-24 18:31:25 +0000    10704 bytes  lib/NumberPicker.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-24 18:31:25 +0000     8938 bytes  lib/Popup.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-24 18:31:25 +0000     6055 bytes  lib/ReplaceTransitionGroup.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-24 18:31:25 +0000     2463 bytes  lib/Select.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-24 18:31:25 +0000    13915 bytes  lib/SelectList.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-24 18:31:25 +0000     3852 bytes  lib/SlideTransition.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-24 18:31:25 +0000     7062 bytes  lib/TimeList.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-24 18:31:25 +0000     3268 bytes  lib/Widget.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-24 18:31:25 +0000     3438 bytes  lib/Year.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-24 18:31:25 +0000     1078 bytes  lib/configure.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-24 18:31:25 +0000     5816 bytes  lib/fonts/rw-widgets.eot</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-24 18:31:25 +0000     2688 bytes  lib/fonts/rw-widgets.svg</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-24 18:31:25 +0000     5640 bytes  lib/fonts/rw-widgets.ttf</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-24 18:31:25 +0000     3332 bytes  lib/fonts/rw-widgets.woff</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-24 18:31:25 +0000    23284 bytes  lib/img/loader-big.gif</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-24 18:31:25 +0000      673 bytes  lib/img/loading.gif</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-24 18:31:25 +0000     1096 bytes  lib/index.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-24 18:31:25 +0000     1858 bytes  lib/less/bootstrap-theme.less</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-24 18:31:25 +0000     6834 bytes  lib/less/core.less</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-24 18:31:25 +0000     1731 bytes  lib/less/datepicker.less</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-24 18:31:25 +0000     1156 bytes  lib/less/icons.less</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-24 18:31:25 +0000     1968 bytes  lib/less/mixins.less</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-24 18:31:25 +0000     1666 bytes  lib/less/multiselect.less</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-24 18:31:25 +0000      571 bytes  lib/less/normalize.less</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-24 18:31:25 +0000     1036 bytes  lib/less/popup.less</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-24 18:31:25 +0000      259 bytes  lib/less/react-widgets.less</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-24 18:31:25 +0000     1135 bytes  lib/less/selectlist.less</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-24 18:31:25 +0000      178 bytes  lib/less/variables.less</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-24 18:31:25 +0000     6024 bytes  lib/localizers/globalize.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-24 18:31:25 +0000     2164 bytes  lib/localizers/moment.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-24 18:31:25 +0000     2747 bytes  lib/localizers/simple-number.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-24 18:31:25 +0000     2244 bytes  lib/mixins/AriaDescendantMixin.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-24 18:31:25 +0000      573 bytes  lib/mixins/AutoFocusMixin.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-24 18:31:25 +0000     2166 bytes  lib/mixins/DataFilterMixin.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-24 18:31:25 +0000     1715 bytes  lib/mixins/DataHelpersMixin.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-24 18:31:25 +0000     2420 bytes  lib/mixins/FocusMixin.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-24 18:31:25 +0000     2227 bytes  lib/mixins/ListMovementMixin.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-24 18:31:25 +0000      990 bytes  lib/mixins/PopupScrollToMixin.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-24 18:31:25 +0000      275 bytes  lib/mixins/PureRenderMixin.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-24 18:31:25 +0000      410 bytes  lib/mixins/RtlChildContextMixin.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-24 18:31:25 +0000      486 bytes  lib/mixins/RtlParentContextMixin.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-24 18:31:25 +0000      754 bytes  lib/mixins/TimeoutMixin.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-24 18:31:25 +0000     2254 bytes  lib/scss/bootstrap-theme.scss</tspan>
-<tspan x="10" y="1658">102.  2017-04-24 18:31:25 +0000     7005 bytes  lib/scss/core.scss</tspan>
-<tspan x="10" y="1674">103.  2017-04-24 18:31:25 +0000     1747 bytes  lib/scss/datepicker.scss</tspan>
-<tspan x="10" y="1690">104.  2017-04-24 18:31:25 +0000     1174 bytes  lib/scss/icons.scss</tspan>
-<tspan x="10" y="1706">105.  2017-04-24 18:31:25 +0000     2077 bytes  lib/scss/mixins.scss</tspan>
-<tspan x="10" y="1722">106.  2017-04-24 18:31:25 +0000     1698 bytes  lib/scss/multiselect.scss</tspan>
-<tspan x="10" y="1738">107.  2017-04-24 18:31:25 +0000      571 bytes  lib/scss/normalize.scss</tspan>
-<tspan x="10" y="1754">108.  2017-04-24 18:31:25 +0000     1084 bytes  lib/scss/popup.scss</tspan>
-<tspan x="10" y="1770">109.  2017-04-24 18:31:25 +0000      259 bytes  lib/scss/react-widgets.scss</tspan>
-<tspan x="10" y="1786">110.  2017-04-24 18:31:25 +0000     1129 bytes  lib/scss/selectlist.scss</tspan>
-<tspan x="10" y="1802">111.  2017-04-24 18:31:25 +0000      214 bytes  lib/scss/variables.scss</tspan>
-<tspan x="10" y="1818">112.  2017-04-24 18:31:25 +0000     3870 bytes  lib/util/_.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-24 18:31:25 +0000     1228 bytes  lib/util/caret.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-24 18:31:25 +0000      642 bytes  lib/util/compat.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-24 18:31:25 +0000      319 bytes  lib/util/configuration.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-24 18:31:25 +0000      972 bytes  lib/util/constants.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-24 18:31:25 +0000     1793 bytes  lib/util/dataHelpers.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-24 18:31:25 +0000     3408 bytes  lib/util/dates.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-24 18:31:25 +0000     3209 bytes  lib/util/dom/animate.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-24 18:31:25 +0000      236 bytes  lib/util/dom/support.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-24 18:31:25 +0000      756 bytes  lib/util/filter.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-24 18:31:25 +0000     2266 bytes  lib/util/interaction.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-24 18:31:25 +0000     6243 bytes  lib/util/localizers.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-24 18:31:25 +0000     3011 bytes  lib/util/propTypes.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-24 18:31:25 +0000      563 bytes  lib/util/repeater.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-24 18:31:25 +0000      639 bytes  lib/util/validateListInterface.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-24 18:31:25 +0000      648 bytes  lib/util/widgetHelpers.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-24 18:31:25 +0000     6437 bytes  package.json</tspan>
-<tspan x="10" y="2090">129.  2017-04-24 18:31:25 +0000     2718 bytes  test/DataHelperMixin.browser.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-24 18:31:25 +0000     1051 bytes  test/browser-test.html</tspan>
-<tspan x="10" y="2122">131.  2017-04-24 18:31:25 +0000    12022 bytes  test/calendar.browser.jsx</tspan>
-<tspan x="10" y="2138">132.  2017-04-24 18:31:25 +0000     7417 bytes  test/combobox.browser.jsx</tspan>
-<tspan x="10" y="2154">133.  2017-04-24 18:31:25 +0000     8676 bytes  test/datetimepicker.browser.jsx</tspan>
-<tspan x="10" y="2170">134.  2017-04-24 18:31:25 +0000     7249 bytes  test/dropdown.browser.jsx</tspan>
-<tspan x="10" y="2186">135.  2017-04-24 18:31:25 +0000     1772 bytes  test/index-ci.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-24 18:31:25 +0000     1108 bytes  test/index.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-24 18:31:25 +0000     3848 bytes  test/list-groupable.browser.jsx</tspan>
-<tspan x="10" y="2234">138.  2017-04-24 18:31:25 +0000     3099 bytes  test/list.browser.jsx</tspan>
-<tspan x="10" y="2250">139.  2017-04-24 18:31:25 +0000     1010 bytes  test/month.browser.jsx</tspan>
-<tspan x="10" y="2266">140.  2017-04-24 18:31:25 +0000    13026 bytes  test/multiselect.browser.jsx</tspan>
-<tspan x="10" y="2282">141.  2017-04-24 18:31:25 +0000     8001 bytes  test/numberpicker.browser.jsx</tspan>
-<tspan x="10" y="2298">142.  2017-04-24 18:31:25 +0000     1225 bytes  test/server.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-24 18:31:25 +0000     4520 bytes  test/util.browser.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-24 18:31:25 +0000     4415 bytes  vendor/es5-sham.min.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-24 18:31:25 +0000    14315 bytes  vendor/es5-shim.min.js</tspan>
-<tspan x="10" y="2362">146.  2017-04-24 18:31:25 +0000      171 bytes  vendor/font-awesome-licenses.md</tspan>
-<tspan x="10" y="2378">147.  2017-04-24 18:31:25 +0000     2636 bytes  vendor/html5shiv.min.js</tspan>
-<tspan x="10" y="2394">148.  2017-04-24 18:31:25 +0000    95931 bytes  vendor/jquery-1.11.2.min.js</tspan>
-<tspan x="10" y="2410">149.  2017-04-24 18:31:25 +0000      548 bytes  vendor/phantomjs-shim.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-24 18:31:25 +0000   158484 bytes  vendor/sinon-1.10.3.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 20:30:22 +0000  1166329 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 20:30:22 +0000     7124 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 20:30:22 +0000     1078 bytes  License.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 20:30:22 +0000     1675 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 20:30:22 +0000      575 bytes  build/browser.config.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 20:30:22 +0000       72 bytes  build/configure-shim.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 20:30:22 +0000      483 bytes  build/dev.config.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 20:30:22 +0000      988 bytes  build/docs.config.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 20:30:22 +0000     2139 bytes  build/lessToSass.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 20:30:22 +0000     1354 bytes  build/localizers.config.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 20:30:22 +0000     3096 bytes  build/make-config.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 20:30:22 +0000      188 bytes  build/test.config.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-27 20:30:22 +0000      613 bytes  dev/configure-globalize.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-27 20:30:22 +0000      104 bytes  dev/configure-moment.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-27 20:30:22 +0000       74 bytes  dev/configure-simplenumber.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-27 20:30:22 +0000     3677 bytes  dev/dev.jsx</tspan>
+<tspan x="10" y="282"> 16.  2017-04-27 20:30:22 +0000     5816 bytes  dev/fonts/rw-widgets.eot</tspan>
+<tspan x="10" y="298"> 17.  2017-04-27 20:30:22 +0000     2688 bytes  dev/fonts/rw-widgets.svg</tspan>
+<tspan x="10" y="314"> 18.  2017-04-27 20:30:22 +0000     5640 bytes  dev/fonts/rw-widgets.ttf</tspan>
+<tspan x="10" y="330"> 19.  2017-04-27 20:30:22 +0000     3332 bytes  dev/fonts/rw-widgets.woff</tspan>
+<tspan x="10" y="346"> 20.  2017-04-27 20:30:22 +0000     1100 bytes  dev/index.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-27 20:30:22 +0000    14258 bytes  dist/css/react-widgets.css</tspan>
+<tspan x="10" y="378"> 22.  2017-04-27 20:30:22 +0000     5816 bytes  dist/fonts/rw-widgets.eot</tspan>
+<tspan x="10" y="394"> 23.  2017-04-27 20:30:22 +0000     2688 bytes  dist/fonts/rw-widgets.svg</tspan>
+<tspan x="10" y="410"> 24.  2017-04-27 20:30:22 +0000     5640 bytes  dist/fonts/rw-widgets.ttf</tspan>
+<tspan x="10" y="426"> 25.  2017-04-27 20:30:22 +0000     3332 bytes  dist/fonts/rw-widgets.woff</tspan>
+<tspan x="10" y="442"> 26.  2017-04-27 20:30:22 +0000    23284 bytes  dist/img/loader-big.gif</tspan>
+<tspan x="10" y="458"> 27.  2017-04-27 20:30:22 +0000      673 bytes  dist/img/loading.gif</tspan>
+<tspan x="10" y="474"> 28.  2017-04-27 20:30:22 +0000     8127 bytes  dist/react-widgets-globalize.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-27 20:30:22 +0000     4064 bytes  dist/react-widgets-moment.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-27 20:30:22 +0000    23106 bytes  dist/react-widgets-simple-number.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-27 20:30:22 +0000   314733 bytes  dist/react-widgets.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-27 20:30:22 +0000      967 bytes  fontello-config.json</tspan>
+<tspan x="10" y="554"> 33.  2017-04-27 20:30:22 +0000     2117 bytes  karma.conf-ci.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-27 20:30:22 +0000      791 bytes  karma.conf.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-27 20:30:22 +0000     2793 bytes  lerna-debug.log</tspan>
+<tspan x="10" y="602"> 36.  2017-04-27 20:30:22 +0000     3247 bytes  lib/Button.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-27 20:30:22 +0000    17312 bytes  lib/Calendar.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-27 20:30:22 +0000     6117 bytes  lib/CalendarView.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-27 20:30:22 +0000     3585 bytes  lib/Century.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-27 20:30:22 +0000    16088 bytes  lib/Combobox.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-27 20:30:22 +0000     3027 bytes  lib/ComboboxInput.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-27 20:30:22 +0000    18780 bytes  lib/DateTimePicker.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-27 20:30:22 +0000     3528 bytes  lib/DateTimePickerInput.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-27 20:30:22 +0000     3459 bytes  lib/Decade.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-27 20:30:22 +0000    16084 bytes  lib/DropdownList.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-27 20:30:22 +0000     2515 bytes  lib/DropdownListInput.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-27 20:30:22 +0000     1041 bytes  lib/Footer.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-27 20:30:22 +0000     2661 bytes  lib/Header.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-27 20:30:22 +0000     2922 bytes  lib/Input.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-27 20:30:22 +0000     5152 bytes  lib/List.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-27 20:30:22 +0000     8251 bytes  lib/ListGroupable.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-27 20:30:22 +0000     1858 bytes  lib/ListOption.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-27 20:30:22 +0000      500 bytes  lib/Listbox.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-27 20:30:22 +0000     4645 bytes  lib/Month.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-27 20:30:22 +0000    21175 bytes  lib/Multiselect.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-27 20:30:22 +0000     3678 bytes  lib/MultiselectInput.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-27 20:30:22 +0000     5661 bytes  lib/MultiselectTagList.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-27 20:30:22 +0000     5255 bytes  lib/NumberInput.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-27 20:30:22 +0000    10704 bytes  lib/NumberPicker.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-27 20:30:22 +0000     8938 bytes  lib/Popup.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-27 20:30:22 +0000     6055 bytes  lib/ReplaceTransitionGroup.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-27 20:30:22 +0000     2463 bytes  lib/Select.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-27 20:30:22 +0000    13915 bytes  lib/SelectList.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-27 20:30:22 +0000     3852 bytes  lib/SlideTransition.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-27 20:30:22 +0000     7062 bytes  lib/TimeList.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-27 20:30:22 +0000     3268 bytes  lib/Widget.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-27 20:30:22 +0000     3438 bytes  lib/Year.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-27 20:30:22 +0000     1078 bytes  lib/configure.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-27 20:30:22 +0000     5816 bytes  lib/fonts/rw-widgets.eot</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-27 20:30:22 +0000     2688 bytes  lib/fonts/rw-widgets.svg</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-27 20:30:22 +0000     5640 bytes  lib/fonts/rw-widgets.ttf</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-27 20:30:22 +0000     3332 bytes  lib/fonts/rw-widgets.woff</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-27 20:30:22 +0000    23284 bytes  lib/img/loader-big.gif</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-27 20:30:22 +0000      673 bytes  lib/img/loading.gif</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-27 20:30:22 +0000     1096 bytes  lib/index.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-27 20:30:22 +0000     1858 bytes  lib/less/bootstrap-theme.less</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-27 20:30:22 +0000     6834 bytes  lib/less/core.less</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-27 20:30:22 +0000     1731 bytes  lib/less/datepicker.less</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-27 20:30:22 +0000     1156 bytes  lib/less/icons.less</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-27 20:30:22 +0000     1968 bytes  lib/less/mixins.less</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-27 20:30:22 +0000     1666 bytes  lib/less/multiselect.less</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-27 20:30:22 +0000      571 bytes  lib/less/normalize.less</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-27 20:30:22 +0000     1036 bytes  lib/less/popup.less</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-27 20:30:22 +0000      259 bytes  lib/less/react-widgets.less</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-27 20:30:22 +0000     1135 bytes  lib/less/selectlist.less</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-27 20:30:22 +0000      178 bytes  lib/less/variables.less</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-27 20:30:22 +0000     6024 bytes  lib/localizers/globalize.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-27 20:30:22 +0000     2164 bytes  lib/localizers/moment.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-27 20:30:22 +0000     2747 bytes  lib/localizers/simple-number.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-27 20:30:22 +0000     2244 bytes  lib/mixins/AriaDescendantMixin.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-27 20:30:22 +0000      573 bytes  lib/mixins/AutoFocusMixin.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-27 20:30:22 +0000     2166 bytes  lib/mixins/DataFilterMixin.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-27 20:30:22 +0000     1715 bytes  lib/mixins/DataHelpersMixin.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-27 20:30:22 +0000     2420 bytes  lib/mixins/FocusMixin.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-27 20:30:22 +0000     2227 bytes  lib/mixins/ListMovementMixin.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-27 20:30:22 +0000      990 bytes  lib/mixins/PopupScrollToMixin.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-27 20:30:22 +0000      275 bytes  lib/mixins/PureRenderMixin.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-27 20:30:22 +0000      410 bytes  lib/mixins/RtlChildContextMixin.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-27 20:30:22 +0000      486 bytes  lib/mixins/RtlParentContextMixin.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-27 20:30:22 +0000      754 bytes  lib/mixins/TimeoutMixin.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-27 20:30:22 +0000     2254 bytes  lib/scss/bootstrap-theme.scss</tspan>
+<tspan x="10" y="1658">102.  2017-04-27 20:30:22 +0000     7005 bytes  lib/scss/core.scss</tspan>
+<tspan x="10" y="1674">103.  2017-04-27 20:30:22 +0000     1747 bytes  lib/scss/datepicker.scss</tspan>
+<tspan x="10" y="1690">104.  2017-04-27 20:30:22 +0000     1174 bytes  lib/scss/icons.scss</tspan>
+<tspan x="10" y="1706">105.  2017-04-27 20:30:22 +0000     2077 bytes  lib/scss/mixins.scss</tspan>
+<tspan x="10" y="1722">106.  2017-04-27 20:30:22 +0000     1698 bytes  lib/scss/multiselect.scss</tspan>
+<tspan x="10" y="1738">107.  2017-04-27 20:30:22 +0000      571 bytes  lib/scss/normalize.scss</tspan>
+<tspan x="10" y="1754">108.  2017-04-27 20:30:22 +0000     1084 bytes  lib/scss/popup.scss</tspan>
+<tspan x="10" y="1770">109.  2017-04-27 20:30:22 +0000      259 bytes  lib/scss/react-widgets.scss</tspan>
+<tspan x="10" y="1786">110.  2017-04-27 20:30:22 +0000     1129 bytes  lib/scss/selectlist.scss</tspan>
+<tspan x="10" y="1802">111.  2017-04-27 20:30:22 +0000      214 bytes  lib/scss/variables.scss</tspan>
+<tspan x="10" y="1818">112.  2017-04-27 20:30:22 +0000     3870 bytes  lib/util/_.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-27 20:30:22 +0000     1228 bytes  lib/util/caret.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-27 20:30:22 +0000      642 bytes  lib/util/compat.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-27 20:30:22 +0000      319 bytes  lib/util/configuration.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-27 20:30:22 +0000      972 bytes  lib/util/constants.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-27 20:30:22 +0000     1793 bytes  lib/util/dataHelpers.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-27 20:30:22 +0000     3408 bytes  lib/util/dates.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-27 20:30:22 +0000     3209 bytes  lib/util/dom/animate.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-27 20:30:22 +0000      236 bytes  lib/util/dom/support.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-27 20:30:22 +0000      756 bytes  lib/util/filter.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-27 20:30:22 +0000     2266 bytes  lib/util/interaction.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-27 20:30:22 +0000     6243 bytes  lib/util/localizers.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-27 20:30:22 +0000     3011 bytes  lib/util/propTypes.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-27 20:30:22 +0000      563 bytes  lib/util/repeater.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-27 20:30:22 +0000      639 bytes  lib/util/validateListInterface.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-27 20:30:22 +0000      648 bytes  lib/util/widgetHelpers.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-27 20:30:22 +0000     6437 bytes  package.json</tspan>
+<tspan x="10" y="2090">129.  2017-04-27 20:30:22 +0000     2718 bytes  test/DataHelperMixin.browser.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-27 20:30:22 +0000     1051 bytes  test/browser-test.html</tspan>
+<tspan x="10" y="2122">131.  2017-04-27 20:30:22 +0000    12022 bytes  test/calendar.browser.jsx</tspan>
+<tspan x="10" y="2138">132.  2017-04-27 20:30:22 +0000     7417 bytes  test/combobox.browser.jsx</tspan>
+<tspan x="10" y="2154">133.  2017-04-27 20:30:22 +0000     8676 bytes  test/datetimepicker.browser.jsx</tspan>
+<tspan x="10" y="2170">134.  2017-04-27 20:30:22 +0000     7249 bytes  test/dropdown.browser.jsx</tspan>
+<tspan x="10" y="2186">135.  2017-04-27 20:30:22 +0000     1772 bytes  test/index-ci.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-27 20:30:22 +0000     1108 bytes  test/index.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-27 20:30:22 +0000     3848 bytes  test/list-groupable.browser.jsx</tspan>
+<tspan x="10" y="2234">138.  2017-04-27 20:30:22 +0000     3099 bytes  test/list.browser.jsx</tspan>
+<tspan x="10" y="2250">139.  2017-04-27 20:30:22 +0000     1010 bytes  test/month.browser.jsx</tspan>
+<tspan x="10" y="2266">140.  2017-04-27 20:30:22 +0000    13026 bytes  test/multiselect.browser.jsx</tspan>
+<tspan x="10" y="2282">141.  2017-04-27 20:30:22 +0000     8001 bytes  test/numberpicker.browser.jsx</tspan>
+<tspan x="10" y="2298">142.  2017-04-27 20:30:22 +0000     1225 bytes  test/server.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-27 20:30:22 +0000     4520 bytes  test/util.browser.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-27 20:30:22 +0000     4415 bytes  vendor/es5-sham.min.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-27 20:30:22 +0000    14315 bytes  vendor/es5-shim.min.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-27 20:30:22 +0000      171 bytes  vendor/font-awesome-licenses.md</tspan>
+<tspan x="10" y="2378">147.  2017-04-27 20:30:22 +0000     2636 bytes  vendor/html5shiv.min.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-27 20:30:22 +0000    95931 bytes  vendor/jquery-1.11.2.min.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-27 20:30:22 +0000      548 bytes  vendor/phantomjs-shim.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-27 20:30:22 +0000   158484 bytes  vendor/sinon-1.10.3.js</tspan>
 </text>
 </svg>
